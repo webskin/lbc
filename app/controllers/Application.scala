@@ -288,7 +288,7 @@ object Application extends Controller {
 sse
 
 
-/**
+
 https://github.com/remy/polyfills/blob/master/EventSource.js polyfill
 modernizr
 
